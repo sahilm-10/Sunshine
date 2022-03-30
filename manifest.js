@@ -23,5 +23,5 @@
 "type": "image/png",
 "sizes": "192x192"
 }],
-"start_url": https://sahilm-10.github.io/Sunshine/
+"start_url": "https://sahilm-10.github.io/Sunshine/"
 }
